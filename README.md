@@ -72,7 +72,7 @@ Third, downlaod & install Rewrite Module. </p>
 
 
 <p>
-Fourth, create the directory C://PHOP and download PHP 7.3.8 and unzip the contents into the directory you just made.
+Fourth, create the directory C://PHP and download PHP 7.3.8 and unzip the contents into the directory you just made.
 </p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -89,7 +89,7 @@ Fifth, download & install VC_redist.x86_exe.  </p>
 
 
 <p>
-Sixth, donload & install MYSQL.5.5.62. </p>
+Sixth, download & install MYSQL.5.5.62. </p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
@@ -105,7 +105,7 @@ Open IIS as an admin and register PHP from within IIS. Then reload IIS. </p>
 
 
 <p>
-Seventh, install & download odTicket v1.15.8. Extract and copy "upload" folder to c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Reload IIS. 
+Seventh, install & download osTicket v1.15.8. Extract and copy "upload" folder to c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Reload IIS. 
  </p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
