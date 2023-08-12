@@ -98,7 +98,7 @@ Sixth, download & install MYSQL.5.5.62. </p>
 
 <p>
 Open IIS as an admin and register PHP from within IIS. Then reload IIS. </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RVdKnt0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
@@ -107,7 +107,7 @@ Open IIS as an admin and register PHP from within IIS. Then reload IIS. </p>
 <p>
 Seventh, install & download osTicket v1.15.8. Extract and copy "upload" folder to c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Reload IIS. 
  </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EdAJYyy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
@@ -116,7 +116,7 @@ Seventh, install & download osTicket v1.15.8. Extract and copy "upload" folder t
 <p>
 In PHP Manager, enable php_imap.dll, php_intl.dll, and php_opcache.dll. 
  </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bETIjjw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
@@ -126,7 +126,7 @@ From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
  </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VGuM2Fl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <p>
@@ -134,7 +134,7 @@ Assign Permissions: ost-config.php
 Disable inheritance -> Remove All
 New Permissions -> Everyone -> All
  </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bh8PaYu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
