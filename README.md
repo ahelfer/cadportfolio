@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/shybySO.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
@@ -165,7 +165,7 @@ End Users osTicket URL: http://localhost/osTicket/
 
 <p>
 Congrats! Yous should be able to login to osTicket! </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QKrCK54.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
