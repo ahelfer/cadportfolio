@@ -142,14 +142,14 @@ New Permissions -> Everyone -> All
 
 <p>
 Continue setting up osTicket in the browser. </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/V8zDGZI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
 <p>
 Download HeidiSQL and create a new session. Connect to the session and create a database called osTicket.
  </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GK7ZX7B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <p>
@@ -157,7 +157,7 @@ Continue setting up osTicket in the browser. Enter MYSQL information and Install
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
 End Users osTicket URL: http://localhost/osTicket/ 
  </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yoWWmBL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
