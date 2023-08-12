@@ -34,13 +34,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 In Azure, create a Virtual Machine using Windows 10, allow it to create a new Vnet. Name it VM-osTicket.
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kKbfhEp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <p>
 Open this file to install all the files we need to support osTicket. (https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sy9Qy7B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
@@ -49,7 +49,7 @@ Open this file to install all the files we need to support osTicket. (https://dr
 <p>
 First, install IIS in Windows and enable CGI, Common HTTP Featutures, and IIS Management Console.
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/glmbdek.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
@@ -57,15 +57,15 @@ First, install IIS in Windows and enable CGI, Common HTTP Featutures, and IIS Ma
 
 <p>
 Second, download & install PHP Manager for IIS.</p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NdVRZHJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
 
 
 <p>
-Third, downlaod & install Rewrite Module. </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Third, download & install Rewrite Module. </p>
+<img src="https://i.imgur.com/Mt3hre7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
@@ -74,7 +74,7 @@ Third, downlaod & install Rewrite Module. </p>
 <p>
 Fourth, create the directory C://PHP and download PHP 7.3.8 and unzip the contents into the directory you just made.
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6yfK6Am.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
@@ -82,7 +82,7 @@ Fourth, create the directory C://PHP and download PHP 7.3.8 and unzip the conten
 
 <p>
 Fifth, download & install VC_redist.x86_exe.  </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vOANiP8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
@@ -90,7 +90,7 @@ Fifth, download & install VC_redist.x86_exe.  </p>
 
 <p>
 Sixth, download & install MYSQL.5.5.62. </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5odzIfu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
