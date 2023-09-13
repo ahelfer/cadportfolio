@@ -1,12 +1,15 @@
 <p align="center">
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>Dynamic Content</h1>
 
 <h2>Demonstration</h2>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+These two emails are representative of a dynamic content. The content changes based on if the customer identifies as a female or male. The name and book reccomendation will be different.<br />
 
-<img src="https://i.imgur.com/W5XOv7H.jpg">
+<img src="https://i.imgur.com/zB6uDy9.jpg">
+<br>
+
+<img src="https://i.imgur.com/PDTgDjZ.jpg">
 
 
 
